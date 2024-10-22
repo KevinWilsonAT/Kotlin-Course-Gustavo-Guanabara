@@ -1,8 +1,11 @@
 fun main(args: Array<String>) {
+
+    // How to make comments
+
     /*
-    *   Commentary types:
-    *       //          =   single line commentary
-    *       /* ... */       =   multi-line commentary
-    *       /** ... */     =   KDoc Commentary (For documentation)
+    *   Comment types:
+    *       //          =   single line comment
+    *       /* ... */       =   multi-line comment
+    *       /** ... */     =   KDoc comment (For documentation)
     * */
 }

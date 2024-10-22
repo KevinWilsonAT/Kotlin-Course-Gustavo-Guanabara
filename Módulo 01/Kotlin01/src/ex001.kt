@@ -1,4 +1,18 @@
 fun main(args: Array<String>) {
+
+    // Display content using Kotlin
+
+    /*
+    *   \n          =   new line
+    *   \t          =   tabulation
+    *   \b          =   backspace (acts like when you press backspace one time)
+    *   \r          =   return (acts like when you select the entire line and types over its contents)
+    *   \\          =   reverse slash
+    *   \"          =   quotes
+    *   print()     =   displays something at the display
+    *   println()   =   displays something at the display and go to another line
+    */
+
     print("Using print() :\n")
     print("Hi\n")
     print("Hi,\t\t\tHow are you?\n")
@@ -15,14 +29,4 @@ fun main(args: Array<String>) {
     println("Hi,\\How are you?\\")
     println("Hi,\"How are you?\"")
 
-    /*
-    *   \n          =   new line
-    *   \t          =   tabulation
-    *   \b          =   backspace (acts like when you press backspace one time)
-    *   \r          =   return (acts like when you select the entire line and types over its contents)
-    *   \\          =   reverse slash
-    *   \"          =   quotes
-    *   print()     =   displays something at the display
-    *   println()   =   displays something at the display and go to another line
-    */
 }
