@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
     *   - Long (-9.223.372.036.854.775.808 ~ 9.223.372.036.854.775.807)
     *
     * Float: Numbers with floating point: 4.5, -1.0893, 0.075
-    *   - Float (6~7 decimal digits)
+    *   - Float (6~7 decimal digits) (<float_number>F - The 'F' is necessary)
     *   - Double (twice more decimal digits than Float)
     *
     * Char: Characters: A, J, Z
