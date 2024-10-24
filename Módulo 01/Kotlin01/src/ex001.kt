@@ -3,14 +3,14 @@ fun main(args: Array<String>) {
     // Display content using Kotlin
 
     /*
-    *   \n          =   new line
-    *   \t          =   tabulation
-    *   \b          =   backspace (acts like when you press backspace one time)
-    *   \r          =   return (acts like when you select the entire line and types over its contents)
-    *   \\          =   reverse slash
-    *   \"          =   quotes
-    *   print()     =   displays something at the display
-    *   println()   =   displays something at the display and go to another line
+    *   \n .................... New line
+    *   \t .................... Tabulation
+    *   \b .................... Backspace (acts like when you press backspace one time)
+    *   \r .................... Return (acts like when you select the entire line and types over its contents)
+    *   \\ .................... Reverse slash
+    *   \" .................... Quotes
+    *   print() ............... Displays something at the display in a single line
+    *   println() ............. Displays something at the display in a single line and go to another line
     */
 
     print("Using print() :\n")
