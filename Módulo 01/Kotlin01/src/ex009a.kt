@@ -8,16 +8,16 @@ fun main(args: Array<String>) {
     """)
     print("\n")
 
-    val current_year = 2024
-    val birth_year = 1978
+    val currentYear = 2024
+    val birthYear = 1978
 
-    println("You are born in ${birth_year} and today we are in the year ${current_year} .")
-    println("You are ${current_year - birth_year} years old.")
+    println("You are born in $birthYear and today we are in the year $currentYear.")
+    println("You are ${currentYear - birthYear} years old.")
 
     println("\n")
     print("""
        Hi! How are you?
-       You are born in ${birth_year} and today we are in the year ${current_year}.
-       So, you are ${current_year - birth_year} years old.
+       You are born in $birthYear and today we are in the year $currentYear.
+       So, you are ${currentYear - birthYear} years old.
     """)
 }

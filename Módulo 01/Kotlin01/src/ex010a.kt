@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
-    val reset_color:String = "\u001B[00m"
-    val yellow_color:String = "\u001B[33m"
-    val red_color:String = "\u001B[31m"
+    val resetColor:String = "\u001B[00m"
+    val yellowColor:String = "\u001B[33m"
+    val redColor:String = "\u001B[31m"
 
-    println("${yellow_color}Hello ${reset_color}world${red_color}!!")
+    println("${yellowColor}Hello ${resetColor}world${redColor}!!")
 }
